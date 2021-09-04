@@ -1,0 +1,2 @@
+Nama = Ilham Adikusuma
+NIM  = 202410103034
